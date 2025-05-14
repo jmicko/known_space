@@ -8,11 +8,11 @@ ________________________________________________________
 
 - [ ] 1964 - "The Coldest Place"
 - [ ] 1965 April – “Wrong-Way Street”
-- [ ] 1965 June - OPTIONAL “One Face” – NOT strictly Known Space
+- [ ] 1965 June - OPTIONAL: “One Face” – NOT strictly Known Space
 - [ ] 1965 July - "Becalmed in Hell"
 - [ ] 1966 February - "The Warriors"
 - [ ] 1966 February - "Eye of an Octopus"
-- [ ] 1966 April - OPTIONAL “Bordered in Black” – NOT strictly Known Space
+- [ ] 1966 April - OPTIONAL: “Bordered in Black” – NOT strictly Known Space
 - [ ] 1966 June - World of Ptavvs (novel)
 - [ ] 1966 October - "How the Heroes Die"
 - [ ] 1966 October - "Neutron Star"
@@ -47,36 +47,35 @@ ________________________________________________________
 ## 1980s
 
 - [ ] 1980 - The Patchwork Girl (novel)
-- [ ] 1989 - OPTIONAL "Man-Kzin Wars II" - Set in known space, mostly not written by Niven. Shared universe
+- [ ] 1989 - OPTIONAL: "Man-Kzin Wars II" - Set in known space, mostly not written by Niven. Shared universe
 
 ## 1990s
 
-- [ ] 1990 - "Madness Has Its Place"
+- [ ] 1990 August - "Madness Has Its Place"
 - [ ] 1991 Jan 1 - Inconstant Star (fix-up novel including Iron from Man-Kzin I, and Inconstant Star from Man-Kzin III. Also references Inconstant Moon, which is not part of Known Space)
 - [ ] 1993 November - Procrustes
 - [ ] 1993 November - The Color of Sunfire
 - [ ] 1994 April - Ghost (collection only, as frame story)
 - [ ] 1995 June - The Woman in Del Rey Crater
-- [ ] 1995 June - OPTIONAL Song of the Night People - Short story that is embedded in The Ringworld Throne, which comes next, so just read that.
+- [ ] 1995 June - OPTIONAL: Song of the Night People - Short story that is embedded in The Ringworld Throne, which comes next, so just read that.
 - [ ] 1996 June - The Ringworld Throne (novel)
 - [ ] 1998 September - Choosing Names - Man-Kzin Wars VII
 
-Everything above this is correct. Everything below this has not been verified
-
 ## 2000s
 
-- [ ] 2000 - "Fly-By-Night"
-- [ ] 2004 - Ringworld's Children (novel)
-- [ ] 2005 - "The Hunting Park"
-- [ ] 2007 - Fleet of Worlds (novel, with Edward M. Lerner)
-- [ ] 2008 - Juggler of Worlds (novel, with Edward M. Lerner)
-- [ ] 2009 - Destroyer of Worlds (novel, with Edward M. Lerner)
+- [ ] 2000 October - "Fly-By-Night" - Set in Man-Kzin Wars
+- [ ] 2004 June - "Ringworld's Children" (novel)
+- [ ] 2005 October - "The Hunting Park" - Set in Man-Kzin Wars
+- [ ] 2007 October - Fleet of Worlds (novel, with Edward M. Lerner)
+- [ ] 2008 September - Juggler of Worlds (novel, with Edward M. Lerner)
+- [ ] 2009 November - Destroyer of Worlds (novel, with Edward M. Lerner)
 
 ## 2010s
 
-- [ ] 2010 - Betrayer of Worlds (novel, with Edward M. Lerner)
-- [ ] 2012 - Fate of Worlds (novel, with Edward M. Lerner)
+- [ ] 2010 October - Betrayer of Worlds (novel, with Edward M. Lerner)
+
+- [ ] 2012 August - "Fate of Worlds: Return from the Ringworld" (novel, with Edward M. Lerner)
 
 ## 2020s
 
-- [ ] 2022 - "Sacred Cow" (with Steven Barnes)
+- [ ] 2022 November - "Sacred Cow" (short story, with Steven Barnes)
