@@ -1,9 +1,8 @@
 # Known Space - Reading Order by Publishing Date
 
-This list follows the Known Space stories in order of publication,
-allowing for a reading experience that reflects how the universe developed over time.
-You may need to jump between collections (Three Books of Known Space, Neutron Star, etc.)
-to find each story.
+This list follows the Known Space stories in order of publication,allowing for a reading
+experience that reflects how the universe developed over time.You may need to jump between
+collections (Three Books of Known Space, Neutron Star, etc.) to find each story.
 
 There are some cases where two stories were published in the same month. Typically they
 were published in different magazines, so exact publishing dates are difficult or
@@ -11,12 +10,12 @@ impossible to determine. In these cases, the in-universe chronological order has
 used to order conflicting stories in the list. However, it ultimately doesn't matter
 which one you read first.
 
-The Man-Kzin Wars stories are part of the expanded universe, and are mostly not written
-by Larry Niven himself. Currently, this list only includes those stories actually written
-by Niven. In the future, the rest will be added here and tagged as optional, but Niven
-has stated that they are not strictly "required reading", so for now they are left out.
-Also they will take more time to find the publishing dates on, and I'm lazy, so, we kinda
-know what's really happening here, don't we?
+The Man-Kzin Wars stories are an anthology series. Each book is a collection of short stories,
+most of which are not written by Larry Niven himself. Instead, they are part of a shared
+universe written mostly by other authors. Any stories that are a part of that series and
+were written by Niven are listed specifically, while the rest of the books are simply listed
+and tagged as optional. Niven provided some canonical information to the authors, so the
+stories are probably canon enough to be worth reading.
 
 ________________________________________________________
 
@@ -27,9 +26,9 @@ ________________________________________________________
 - [ ] 1965 June - OPTIONAL: “One Face” - NOT strictly Known Space
 - [ ] 1965 July - "Becalmed in Hell"
 - [ ] 1966 February - "Eye of an Octopus" (short story, chronologically before "The Warriors")
-- [ ] 1966 February - "The Warriors" (short story, chronologically after "Eye of an Octopus")
+- [ ] 1966 February - "The Warriors" (short story, chronologically after "Eye of an Octopus", also included later in "The Man-Kzin Wars)
 - [ ] 1966 April - OPTIONAL: “Bordered in Black” - NOT strictly Known Space
-- [ ] 1966 June - World of Ptavvs (novel)
+- [ ] 1966 June - "World of Ptavvs" (novel)
 - [ ] 1966 October - "How the Heroes Die" (chronologically before "Neutron Star")
 - [ ] 1966 October - "Neutron Star" (chronologically after "How the Heroes Die")
 - [ ] 1966 November - "At the Bottom of a Hole" (chronologically before "At the Core")
@@ -47,7 +46,7 @@ ________________________________________________________
 - [ ] 1968 April - "Grendel" (chronologically after "The Deceivers")
 - [ ] 1968 June - "There Is a Tide"
 - [ ] 1968 July - "Wait It Out"
-- [ ] 1968 September - A Gift from Earth (novel)
+- [ ] 1968 September - "A Gift from Earth" (novel)
 - [ ] 1969 January - "The Organleggers" (later "Death by Ecstasy")
 
 ## 1970s
@@ -55,43 +54,59 @@ ________________________________________________________
 - [ ] 1970 - Ringworld (novel)
 - [ ] 1972 - "Cloak of Anarchy"
 - [ ] 1973 January - "The Defenseless Dead"
-- [ ] 1973 September - Protector (novel)
+- [ ] 1973 September - "Protector" (novel)
 - [ ] 1975 January - "ARM" (chronologically before "The Borderland of Sol")
 - [ ] 1975 January - "The Borderland of Sol" (chronologically after "ARM")
-- [ ] 1979 - The Ringworld Engineers (novel)
+- [ ] 1979 - "The Ringworld Engineers" (novel)
 
 ## 1980s
 
-- [ ] 1980 - The Patchwork Girl (novel)
-- [ ] 1989 - OPTIONAL: "Man-Kzin Wars II" - Set in known space, mostly not written by Niven. Shared universe
+- [ ] 1980 - "The Patchwork Girl" (novel)
+- [ ] 1988 June - OPTIONAL: "The Man-Kzin Wars" (first book in the Man-Kzin series)
+- [ ] 1989 August - OPTIONAL: "Man-Kzin Wars II" - Set in known space, mostly not written by Niven. Shared universe
 
 ## 1990s
 
 - [ ] 1990 August - "Madness Has Its Place" - Man-Kzin Wars III
-- [ ] 1991 Jan 1 - Inconstant Star (fix-up novel including Iron from Man-Kzin I, and Inconstant Star from Man-Kzin III. Also references Inconstant Moon, which is not part of Known Space)
-- [ ] 1993 November - Procrustes (chronologically before "The Color of Sunfire")
-- [ ] 1993 November - The Color of Sunfire (chronologically after "Procrustes")
-- [ ] 1994 April - Ghost (collection only, as frame story)
-- [ ] 1995 June - The Woman in Del Rey Crater
-- [ ] 1995 June - OPTIONAL: Song of the Night People - Short story that is embedded in The Ringworld Throne, which comes next, so just read that.
-- [ ] 1996 June - The Ringworld Throne (novel)
-- [ ] 1998 September - Choosing Names - from Man-Kzin Wars VII
+- [ ] 1990 August - OPTIONAL: "Man-Kzin Wars III"
+- [ ] 1991 Jan 1 - "Inconstant Star" (fix-up novel including Iron from Man-Kzin I, and Inconstant Star from Man-Kzin III. Also references Inconstant Moon, which is not part of Known Space)
+- [ ] 1991 September - OPTIONAL: "Man-Kzin Wars IV"
+- [ ] 1992 October - OPTIONAL: "Man-Kzin Wars V"
+- [ ] 1993 November - "Procrustes" (chronologically before "The Color of Sunfire")
+- [ ] 1993 November - "The Color of Sunfire" (chronologically after "Procrustes")
+- [ ] 1994 April - "Ghost" (collection only, as frame story)
+- [ ] 1994 July - OPTIONAL: "Man-Kzin Wars VI"
+- [ ] 1995 June - "The Woman in Del Rey Crater"
+- [ ] 1995 June - OPTIONAL: "Song of the Night People" - Short story that is embedded in The Ringworld Throne, which comes next, so just read that.
+- [ ] 1995 July - OPTIONAL: "Man-Kzin Wars VII"
+- [ ] 1996 June - "The Ringworld Throne" (novel)
+todo - "A Darker Geometry" from Man-Kinz might go here
+- [ ] 1998 September - "Choosing Names" - (short story from Man-Kzin Wars VII)
+- [ ] 1998 September - "Choosing Names: Man-Kinz Wars VII" ("Choosing Names" is both the anthology title, and the tile of one of the stories in the book)
 
 ## 2000s
 
 - [ ] 2000 October - "Fly-By-Night" - Set in Man-Kzin Wars
+- [ ] 2002 January - OPTIONAL: "Man-Kzin Wars IX"
+- [ ] 2003 August - OPTIONAL: "Man-Kzin Wars X: the Wunder War"
 - [ ] 2004 June - "Ringworld's Children" (novel)
 - [ ] 2005 October - "The Hunting Park" - Set in Man-Kzin Wars
-- [ ] 2007 October - Fleet of Worlds (novel, with Edward M. Lerner)
-- [ ] 2008 September - Juggler of Worlds (novel, with Edward M. Lerner)
-- [ ] 2009 November - Destroyer of Worlds (novel, with Edward M. Lerner)
+- [ ] 2005 October 4 - OPTIONAL: "Man-Kzin Wars XI"
+- [ ] 2007 October - "Fleet of Worlds" (novel, with Edward M. Lerner)
+- [ ] 2008 September - "Juggler of Worlds" (novel, with Edward M. Lerner)
+- [ ] 2009 February 3 - OPTIONAL: "Man-Kzin Wars XII"
+- [ ] 2009 November - "Destroyer of Worlds" (novel, with Edward M. Lerner)
 
 ## 2010s
 
-- [ ] 2010 October - Betrayer of Worlds (novel, with Edward M. Lerner)
-
-- [ ] 2012 August - "Fate of Worlds: Return from the Ringworld" (novel, with Edward M. Lerner)
+- [ ] 2010 October - "Betrayer of Worlds" (novel, with Edward M. Lerner)
+- [ ] 2012 May - OPTIONAL: "Man-Kzin Wars XIII"
+- [ ] 2012 August 21 - "Fate of Worlds: Return from the Ringworld" (novel, with Edward M. Lerner)
+- [ ] 2013 December 3 - OPTIONAL: "Man-Kzin Wars XIV"
+- [ ] 2013 December - OPTIONAL: "Treasure Planet: A Man-Kzin Novel" (not even part of the Man-Kzin Wars. Very optional)
+- [ ] 2019 February - OPTIONAL: "Man-Kzin Wars XV"
 
 ## 2020s
 
+- [ ] 2020 February 9 - OPTIONAL: "Freedom: A Man-Kzin Novel"
 - [ ] 2022 November - "Sacred Cow" (short story, with Steven Barnes)
