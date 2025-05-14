@@ -1,18 +1,28 @@
 # Known Space - Reading Order by Publishing Date
 
-This list follows the Known Space stories in order of publication, allowing for a reading experience that reflects how the universe developed over time. You may need to jump between collections (Three Books of Known Space, Neutron Star, etc.) to find each story.
+This list follows the Known Space stories in order of publication,
+allowing for a reading experience that reflects how the universe developed over time.
+You may need to jump between collections (Three Books of Known Space, Neutron Star, etc.)
+to find each story.
+
+The Man-Kzin Wars stories are part of the expanded universe, and are mostly not written
+by Larry Niven himself. Currently, this list only includes those stories actually written
+by Niven. In the future, the rest will be added here and tagged as optional, but Niven
+has stated that they are not strictly "required reading", so for now they are left out.
+Also they will take more time to find the publishing dates on, and I'm lazy, so, we kinda
+know what's really happening here, don't we?
 
 ________________________________________________________
 
 ## 1960s
 
 - [ ] 1964 - "The Coldest Place"
-- [ ] 1965 April – “Wrong-Way Street”
-- [ ] 1965 June - OPTIONAL: “One Face” – NOT strictly Known Space
+- [ ] 1965 April - “Wrong-Way Street”
+- [ ] 1965 June - OPTIONAL: “One Face” - NOT strictly Known Space
 - [ ] 1965 July - "Becalmed in Hell"
 - [ ] 1966 February - "The Warriors"
 - [ ] 1966 February - "Eye of an Octopus"
-- [ ] 1966 April - OPTIONAL: “Bordered in Black” – NOT strictly Known Space
+- [ ] 1966 April - OPTIONAL: “Bordered in Black” - NOT strictly Known Space
 - [ ] 1966 June - World of Ptavvs (novel)
 - [ ] 1966 October - "How the Heroes Die"
 - [ ] 1966 October - "Neutron Star"
@@ -51,7 +61,7 @@ ________________________________________________________
 
 ## 1990s
 
-- [ ] 1990 August - "Madness Has Its Place"
+- [ ] 1990 August - "Madness Has Its Place" - Man-Kzin Wars III
 - [ ] 1991 Jan 1 - Inconstant Star (fix-up novel including Iron from Man-Kzin I, and Inconstant Star from Man-Kzin III. Also references Inconstant Moon, which is not part of Known Space)
 - [ ] 1993 November - Procrustes
 - [ ] 1993 November - The Color of Sunfire
