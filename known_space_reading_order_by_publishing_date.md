@@ -5,6 +5,12 @@ allowing for a reading experience that reflects how the universe developed over 
 You may need to jump between collections (Three Books of Known Space, Neutron Star, etc.)
 to find each story.
 
+There are some cases where two stories were published in the same month. Typically they
+were published in different magazines, so exact publishing dates are difficult or
+impossible to determine. In these cases, the in-universe chronological order has been
+used to order conflicting stories in the list. However, it ultimately doesn't matter
+which one you read first.
+
 The Man-Kzin Wars stories are part of the expanded universe, and are mostly not written
 by Larry Niven himself. Currently, this list only includes those stories actually written
 by Niven. In the future, the rest will be added here and tagged as optional, but Niven
@@ -20,14 +26,14 @@ ________________________________________________________
 - [ ] 1965 April - “Wrong-Way Street”
 - [ ] 1965 June - OPTIONAL: “One Face” - NOT strictly Known Space
 - [ ] 1965 July - "Becalmed in Hell"
-- [ ] 1966 February - "The Warriors"
-- [ ] 1966 February - "Eye of an Octopus"
+- [ ] 1966 February - "Eye of an Octopus" (short story, chronologically before "The Warriors")
+- [ ] 1966 February - "The Warriors" (short story, chronologically after "Eye of an Octopus")
 - [ ] 1966 April - OPTIONAL: “Bordered in Black” - NOT strictly Known Space
 - [ ] 1966 June - World of Ptavvs (novel)
-- [ ] 1966 October - "How the Heroes Die"
-- [ ] 1966 October - "Neutron Star"
-- [ ] 1966 November - "At the Core"
-- [ ] 1966 November - "At the Bottom of a Hole"
+- [ ] 1966 October - "How the Heroes Die" (chronologically before "Neutron Star")
+- [ ] 1966 October - "Neutron Star" (chronologically after "How the Heroes Die")
+- [ ] 1966 November - "At the Bottom of a Hole" (chronologically before "At the Core")
+- [ ] 1966 November - "At the Core" (chronologically after "At the Bottom of a Hole")
 - [ ] 1966 December - "A Relic of the Empire"
 - [ ] 1967 February - "The Soft Weapon"
 - [ ] 1967 March - "Flatlander"
@@ -37,8 +43,8 @@ ________________________________________________________
 - [ ] 1967 August - "The Jigsaw Man"
 - [ ] 1967 December - "The Handicapped"
 - [ ] 1968 February - "Slowboat Cargo"
-- [ ] 1968 April - "The Deceivers" (later "Intent to Deceive")
-- [ ] 1968 April - "Grendel"
+- [ ] 1968 April - "The Deceivers" (later "Intent to Deceive", chronologically before "Grendel")
+- [ ] 1968 April - "Grendel" (chronologically after "The Deceivers")
 - [ ] 1968 June - "There Is a Tide"
 - [ ] 1968 July - "Wait It Out"
 - [ ] 1968 September - A Gift from Earth (novel)
@@ -50,8 +56,8 @@ ________________________________________________________
 - [ ] 1972 - "Cloak of Anarchy"
 - [ ] 1973 January - "The Defenseless Dead"
 - [ ] 1973 September - Protector (novel)
-- [ ] 1975 January - "ARM"
-- [ ] 1975 January - "The Borderland of Sol"
+- [ ] 1975 January - "ARM" (chronologically before "The Borderland of Sol")
+- [ ] 1975 January - "The Borderland of Sol" (chronologically after "ARM")
 - [ ] 1979 - The Ringworld Engineers (novel)
 
 ## 1980s
@@ -63,13 +69,13 @@ ________________________________________________________
 
 - [ ] 1990 August - "Madness Has Its Place" - Man-Kzin Wars III
 - [ ] 1991 Jan 1 - Inconstant Star (fix-up novel including Iron from Man-Kzin I, and Inconstant Star from Man-Kzin III. Also references Inconstant Moon, which is not part of Known Space)
-- [ ] 1993 November - Procrustes
-- [ ] 1993 November - The Color of Sunfire
+- [ ] 1993 November - Procrustes (chronologically before "The Color of Sunfire")
+- [ ] 1993 November - The Color of Sunfire (chronologically after "Procrustes")
 - [ ] 1994 April - Ghost (collection only, as frame story)
 - [ ] 1995 June - The Woman in Del Rey Crater
 - [ ] 1995 June - OPTIONAL: Song of the Night People - Short story that is embedded in The Ringworld Throne, which comes next, so just read that.
 - [ ] 1996 June - The Ringworld Throne (novel)
-- [ ] 1998 September - Choosing Names - Man-Kzin Wars VII
+- [ ] 1998 September - Choosing Names - from Man-Kzin Wars VII
 
 ## 2000s
 
