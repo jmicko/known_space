@@ -80,7 +80,7 @@ ________________________________________________________
 - [ ] 1995 June - OPTIONAL: "Song of the Night People" - Short story that is embedded in The Ringworld Throne, which comes next, so just read that.
 - [ ] 1995 July - OPTIONAL: "Man-Kzin Wars VII"
 - [ ] 1996 June - "The Ringworld Throne" (novel)
-todo - "A Darker Geometry" from Man-Kinz might go here
+- [ ] 1996 September - OPTIONAL: "A Darker Geometry" (This one has me confused. It seems to have been sold as it's own book, but also seems to be included in Man-Kinz VII. Until I purchase that book and verify, I will leave this in here. It was not written by Larry Niven)
 - [ ] 1998 September - "Choosing Names" - (short story from Man-Kzin Wars VII)
 - [ ] 1998 September - "Choosing Names: Man-Kinz Wars VII" ("Choosing Names" is both the anthology title, and the tile of one of the stories in the book)
 
