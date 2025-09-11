@@ -38,10 +38,10 @@ ________________________________________________________
 - [ ] 1967 March - "Flatlander"
 - [ ] 1967 April - "The Ethics of Madness"
 - [ ] 1967 May - "Safe at Any Speed"
-- [ ] 1967 May - "The Adults"
+- [ ] 1967 May - "The Adults" (later published as part 1 of Protector, and is safe to wait for Protector without spoilers. Do not read Protector now, as it spoils Ringworld)
 - [ ] 1967 August - "The Jigsaw Man"
 - [ ] 1967 December - "The Handicapped"
-- [ ] 1968 February - "Slowboat Cargo"
+- [ ] 1968 February - "Slowboat Cargo" (serialization of A Gift from Earth. Can safely read A Gift from Earth now)
 - [ ] 1968 April - "The Deceivers" (later "Intent to Deceive", chronologically before "Grendel")
 - [ ] 1968 April - "Grendel" (chronologically after "The Deceivers")
 - [ ] 1968 June - "There Is a Tide"
