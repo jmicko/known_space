@@ -21,92 +21,122 @@ ________________________________________________________
 
 ## 1960s
 
-- [ ] 1964 December - "The Coldest Place"
-- [ ] 1965 April - “Wrong-Way Street”
-- [ ] 1965 June - OPTIONAL: “One Face” - NOT strictly Known Space
-- [ ] 1965 July - "Becalmed in Hell"
-- [ ] 1966 February - "Eye of an Octopus" (short story, chronologically before "The Warriors")
-- [ ] 1966 February - "The Warriors" (short story, chronologically after "Eye of an Octopus", also included later in "The Man-Kzin Wars)
-- [ ] 1966 April - OPTIONAL: “Bordered in Black” - NOT strictly Known Space
-- [ ] 1966 June - *World of Ptavvs* (novel)
-- [ ] 1966 October - "How the Heroes Die" (chronologically before "Neutron Star")
-- [ ] 1966 October - "Neutron Star" (chronologically after "How the Heroes Die")
-- [ ] 1966 November - "At the Bottom of a Hole" (chronologically before "At the Core")
-- [ ] 1966 November - "At the Core" (chronologically after "At the Bottom of a Hole")
-- [ ] 1966 December - "A Relic of the Empire"
-- [ ] 1967 February - "The Soft Weapon"
-- [ ] 1967 March - "Flatlander"
-- [ ] 1967 April - "The Ethics of Madness"
+| <input type="checkbox" checked></input> | Date | Title | Found In                    | Notes |
+|-----|----|------|----------|-------|
+| <input type="checkbox"></input> | 1964 Aug | "The Coldest Place" | *Three Books of Known Space* |       |
+| <input type="checkbox"></input> | 1965 Apr  | "Wrong-Way Street"  | *Convergent Series* |       |
+| <input type="checkbox"></input> | 1965 Jun   | "One Face"          | *Convergent Series* | OPTIONAL: Not strictly Known Space |
+| <input type="checkbox"></input> | 1965 Jul | "Becalmed in Hell" | *Three Books of Known Space* |  |
+| <input type="checkbox"></input> | 1966 Feb | "Eye of an Octopus" | *Three Books of Known Space* | short story, chronologically before "The Warriors" |
+| <input type="checkbox"></input> | 1966 Feb | "The Warriors" | *Three Books of Known Space* | short story, chronologically after "Eye of an Octopus", also included later in "The Man-Kzin Wars |
+| <input type="checkbox"></input> | 1966 Apr | “Bordered in Black” | *Convergent Series* | OPTIONAL: NOT strictly Known Space |
+| <input type="checkbox"></input> | 1966 Jun | *World of Ptavvs* | *Three Books of Known Space*, Standalone | Novel |
+| <input type="checkbox"></input> | 1966 Oct | "How the Heroes Die" | *Three Books of Known Space* | chronologically before "Neutron Star" |
+| <input type="checkbox"></input> | 1966 Oct | "Neutron Star" | *Neutron Star* | chronologically after "How the Heroes Die". 'Neutron Star' is both a short story, and a collection of short stories. The collection *Neutron Star* contains the short story "Neutron Star" |
+| <input type="checkbox"></input> | 1966 Nov | "At the Bottom of a Hole" | *Three Books of Known Space* | chronologically before "At the Core" |
+| <input type="checkbox"></input> | 1966 Nov | "At the Core" | *Neutron Star* | chronologically after "At the Bottom of a Hole" |
+| <input type="checkbox"></input> | 1966 Dec | "A Relic of the Empire" | *Neutron Star* |  |
+| <input type="checkbox"></input> | 1967 Feb | "The Soft Weapon" | *Neutron Star* |  |
+| <input type="checkbox"></input> | 1967 Mar | "Flatlander" | *Neutron Star* |  |
+| <input type="checkbox"></input> | 1967 Apr | "The Ethics of Madness" | *Neutron Star* |  |
+| <input type="checkbox"></input> | 1967 May | "Safe at Any Speed" | *Three Books of Known Space* | |  |
+| <input type="checkbox"></input> | 1967 May | "The Adults" | *Protector* | later published as part 1 of *Protector*. You can read it when you read protector. None of the stories between "The Adults" and *Protector* will spoil "The Adults. Do not read *Protector* now, as it spoils *Ringworld* |
+| <input type="checkbox"></input> | 1967 Aug | "The Jigsaw Man" | *Three Books of Known Space* |  |
+| <input type="checkbox"></input> | 1967 Dec | "The Handicapped" | *Neutron Star* |  |
+| <input type="checkbox"></input> | 1968 Feb | "Slowboat Cargo" | *A Gift from Earth*, *Three Books of Known Space* | serialization of A Gift from Earth. Can safely read *A Gift from Earth* now. *A Gift from Earth* is included in *Three Books of Known Space* |
+| <input type="checkbox"></input> | 1968 Apr | "The Deceivers" | *Three Books of Known Space* | later "Intent to Deceive", chronologically before "Grendel" |
+| <input type="checkbox"></input> | 1968 Apr | "Grendel" | *Neutron Star* | chronologically after "The Deceivers" |
+| <input type="checkbox"></input> | 1968 Jun | "There Is a Tide" | *Three Books of Known Space* |  |
+| <input type="checkbox"></input> | 1968 Jul | "Wait It Out" | *Three Books of Known Space* |  |
+| <input type="checkbox"></input> | 1968 Sep | *A Gift from Earth* | *Three Books of Known Space*, Standalone | Novel |
+| <input type="checkbox"></input> | 1969 Jan | "The Organleggers" | *Flatlander* | later "Death by Ecstasy" |
+
+- [ ] 1964 Dec - "The Coldest Place"
+- [ ] 1965 Apr - “Wrong-Way Street”
+- [ ] 1965 Jun - OPTIONAL: “One Face” - NOT strictly Known Space
+- [ ] 1965 Jul - "Becalmed in Hell"
+- [ ] 1966 Feb - "Eye of an Octopus" (short story, chronologically before "The Warriors")
+- [ ] 1966 Feb - "The Warriors" (short story, chronologically after "Eye of an Octopus", also included later in "The Man-Kzin Wars)
+- [ ] 1966 Apr - OPTIONAL: “Bordered in Black” - NOT strictly Known Space
+- [ ] 1966 Jun - *World of Ptavvs* (novel)
+- [ ] 1966 Oct - "How the Heroes Die" (chronologically before "Neutron Star")
+- [ ] 1966 Oct - "Neutron Star" (chronologically after "How the Heroes Die")
+- [ ] 1966 Nov - "At the Bottom of a Hole" (chronologically before "At the Core")
+- [ ] 1966 Nov - "At the Core" (chronologically after "At the Bottom of a Hole")
+- [ ] 1966 Dec - "A Relic of the Empire"
+- [ ] 1967 Feb - "The Soft Weapon"
+- [ ] 1967 Mar - "Flatlander"
+- [ ] 1967 Apr - "The Ethics of Madness"
 - [ ] 1967 May - "Safe at Any Speed"
-- [ ] 1967 May - "The Adults" (later published as part 1 of Protector, and is safe to wait for Protector without spoilers. Do not read Protector now, as it spoils Ringworld)
-- [ ] 1967 August - "The Jigsaw Man"
-- [ ] 1967 December - "The Handicapped"
-- [ ] 1968 February - "Slowboat Cargo" (serialization of A Gift from Earth. Can safely read A Gift from Earth now)
-- [ ] 1968 April - "The Deceivers" (later "Intent to Deceive", chronologically before "Grendel")
-- [ ] 1968 April - "Grendel" (chronologically after "The Deceivers")
-- [ ] 1968 June - "There Is a Tide"
-- [ ] 1968 July - "Wait It Out"
-- [ ] 1968 September - *A Gift from Earth* (novel)
-- [ ] 1969 January - "The Organleggers" (later "Death by Ecstasy")
+- [ ] 1967 May - "The Adults" (later published as part 1 of *Protector*. You can read it when you read protector. None of the stories between "The Adults" and *Protector* will spoil "The Adults. Do not read *Protector* now, as it spoils *Ringworld*)
+- [ ] 1967 Aug - "The Jigsaw Man"
+- [ ] 1967 Dec - "The Handicapped"
+- [ ] 1968 Feb - "Slowboat Cargo" (serialization of A Gift from Earth. Can safely read *A Gift from Earth* now)
+- [ ] 1968 Apr - "The Deceivers" (later "Intent to Deceive", chronologically before "Grendel")
+- [ ] 1968 Apr - "Grendel" (chronologically after "The Deceivers")
+- [ ] 1968 Jun - "There Is a Tide"
+- [ ] 1968 Jul - "Wait It Out"
+- [ ] 1968 Sep - *A Gift from Earth* (novel)
+- [ ] 1969 Jan - "The Organleggers" (later "Death by Ecstasy")
 
 ## 1970s
 
-- [ ] 1970 October - *Ringworld* (novel)
-- [ ] 1972 March - "Cloak of Anarchy"
-- [ ] 1973 January - "The Defenseless Dead"
-- [ ] 1973 September - *Protector* (novel)
-- [ ] 1975 January - "ARM" (chronologically before "The Borderland of Sol")
-- [ ] 1975 January - "The Borderland of Sol" (chronologically after "ARM")
-- [ ] 1979 July - *The Ringworld Engineers* (novel)
+- [ ] 1970 Oct - *Ringworld* (novel)
+- [ ] 1972 Mar - "Cloak of Anarchy"
+- [ ] 1973 Jan - "The Defenseless Dead"
+- [ ] 1973 Sep - *Protector* (novel)
+- [ ] 1975 Jan - "ARM" (chronologically before "The Borderland of Sol")
+- [ ] 1975 Jan - "The Borderland of Sol" (chronologically after "ARM")
+- [ ] 1979 Jul - *The Ringworld Engineers* (novel)
 
 ## 1980s
 
-- [ ] 1980 April - *The Patchwork Girl* (novel)
-- [ ] 1988 June - OPTIONAL: *The Man-Kzin Wars* (first book in the Man-Kzin series)
-- [ ] 1989 August - OPTIONAL: *Man-Kzin Wars II* - Set in known space, mostly not written by Niven. Shared universe
+- [ ] 1980 Apr - *The Patchwork Girl* (novel)
+- [ ] 1988 Jun - OPTIONAL: *The Man-Kzin Wars* (first book in the Man-Kzin series)
+- [ ] 1989 Aug - OPTIONAL: *Man-Kzin Wars II* - Set in known space, mostly not written by Niven. Shared universe
 
 ## 1990s
 
-- [ ] 1990 August - "Madness Has Its Place" - (Short story from *Man-Kzin Wars III*)
-- [ ] 1990 August - OPTIONAL: *Man-Kzin Wars III*
+- [ ] 1990 Aug - "Madness Has Its Place" - (Short story from *Man-Kzin Wars III*)
+- [ ] 1990 Aug - OPTIONAL: *Man-Kzin Wars III*
 - [ ] 1991 Jan 1 - *Inconstant Star* (fix-up novel including Iron from The *Man-Kzin Wars*, and Inconstant Star from *Man-Kzin Wars III*. Also references "Inconstant Moon", which is not part of Known Space)
-- [ ] 1991 September - OPTIONAL: *Man-Kzin Wars IV*
-- [ ] 1992 October - OPTIONAL: *Man-Kzin Wars V*
-- [ ] 1993 November - "Procrustes" (chronologically before "The Color of Sunfire")
-- [ ] 1993 November - "The Color of Sunfire" (chronologically after "Procrustes")
-- [ ] 1994 April - "Ghost" (collection only, as frame story)
-- [ ] 1994 July - OPTIONAL: *Man-Kzin Wars VI*
-- [ ] 1995 June - "The Woman in Del Rey Crater"
-- [ ] 1995 June - OPTIONAL: "Song of the Night People" - Short story that is embedded in The Ringworld Throne, which comes next, so just read that.
-- [ ] 1995 July - OPTIONAL: *Man-Kzin Wars VII*
-- [ ] 1996 June - *The Ringworld Throne* (novel)
-- [ ] 1996 September - OPTIONAL: "A Darker Geometry" (This one has me confused. It seems to have been sold as it's own book, but also seems to be included in Man-Kinz VII. Until I purchase that book and verify, I will leave this in here. It was not written by Larry Niven)
-- [ ] 1998 September - "Choosing Names" - (short story from *Man-Kzin Wars VII*)
-- [ ] 1998 September - "Choosing Names: Man-Kinz Wars VII" ("Choosing Names" is both the anthology title, and the tile of one of the stories in the book)
+- [ ] 1991 Sep - OPTIONAL: *Man-Kzin Wars IV*
+- [ ] 1992 Oct - OPTIONAL: *Man-Kzin Wars V*
+- [ ] 1993 Nov - "Procrustes" (chronologically before "The Color of Sunfire")
+- [ ] 1993 Nov - "The Color of Sunfire" (chronologically after "Procrustes")
+- [ ] 1994 Apr - "Ghost" (collection only, as frame story)
+- [ ] 1994 Jul - OPTIONAL: *Man-Kzin Wars VI*
+- [ ] 1995 Jun - "The Woman in Del Rey Crater"
+- [ ] 1995 Jun - OPTIONAL: "Song of the Night People" - Short story that is embedded in The Ringworld Throne, which comes next, so just read that.
+- [ ] 1995 Jul - OPTIONAL: *Man-Kzin Wars VII*
+- [ ] 1996 Jun - *The Ringworld Throne* (novel)
+- [ ] 1996 Sep - OPTIONAL: "A Darker Geometry" (This one has me confused. It seems to have been sold as it's own book, but also seems to be included in Man-Kinz VII. Until I purchase that book and verify, I will leave this in here. It was not written by Larry Niven)
+- [ ] 1998 Sep - "Choosing Names" - (short story from *Man-Kzin Wars VII*)
+- [ ] 1998 Sep - "Choosing Names: Man-Kinz Wars VII" ("Choosing Names" is both the anthology title, and the tile of one of the stories in the book)
 
 ## 2000s
 
-- [ ] 2000 October - "Fly-By-Night" (Short story set during The Man-Kzin Wars, later published in *Man-Kzin Wars IX*)
-- [ ] 2002 January - OPTIONAL: *Man-Kzin Wars IX*
-- [ ] 2003 August - OPTIONAL: *Man-Kzin Wars X: the Wunder War*
-- [ ] 2004 June - *Ringworld's Children* (novel)
-- [ ] 2005 October - "The Hunting Park" - (Short story from *Man-Kzin Wars XI*)
-- [ ] 2005 October 4 - OPTIONAL: *Man-Kzin Wars XI*
-- [ ] 2007 October - *Fleet of Worlds* (novel, with Edward M. Lerner)
-- [ ] 2008 September - *Juggler of Worlds* (novel, with Edward M. Lerner)
-- [ ] 2009 February 3 - OPTIONAL: *Man-Kzin Wars XII*
-- [ ] 2009 November - *Destroyer of Worlds* (novel, with Edward M. Lerner)
+- [ ] 2000 Oct - "Fly-By-Night" (Short story set during The Man-Kzin Wars, later published in *Man-Kzin Wars IX*)
+- [ ] 2002 Jan - OPTIONAL: *Man-Kzin Wars IX*
+- [ ] 2003 Aug - OPTIONAL: *Man-Kzin Wars X: the Wunder War*
+- [ ] 2004 Jun - *Ringworld's Children* (novel)
+- [ ] 2005 Oct - "The Hunting Park" - (Short story from *Man-Kzin Wars XI*)
+- [ ] 2005 Oct 4 - OPTIONAL: *Man-Kzin Wars XI*
+- [ ] 2007 Oct - *Fleet of Worlds* (novel, with Edward M. Lerner)
+- [ ] 2008 Sep - *Juggler of Worlds* (novel, with Edward M. Lerner)
+- [ ] 2009 Feb 3 - OPTIONAL: *Man-Kzin Wars XII*
+- [ ] 2009 Nov - *Destroyer of Worlds* (novel, with Edward M. Lerner)
 
 ## 2010s
 
-- [ ] 2010 October - *Betrayer of Worlds* (novel, with Edward M. Lerner)
+- [ ] 2010 Oct - *Betrayer of Worlds* (novel, with Edward M. Lerner)
 - [ ] 2012 May - OPTIONAL: *Man-Kzin Wars XIII*
-- [ ] 2012 August 21 - *Fate of Worlds: Return from the Ringworld* (novel, with Edward M. Lerner)
-- [ ] 2013 December 3 - OPTIONAL: *Man-Kzin Wars XIV*
-- [ ] 2013 December - OPTIONAL: *Treasure Planet: A Man-Kzin Novel* (not even part of the Man-Kzin Wars. Very optional)
-- [ ] 2019 February - OPTIONAL: *Man-Kzin Wars XV*
+- [ ] 2012 Aug 21 - *Fate of Worlds: Return from the Ringworld* (novel, with Edward M. Lerner)
+- [ ] 2013 Dec 3 - OPTIONAL: *Man-Kzin Wars XIV*
+- [ ] 2013 Dec - OPTIONAL: *Treasure Planet: A Man-Kzin Novel* (not even part of the Man-Kzin Wars. Very optional)
+- [ ] 2019 Feb - OPTIONAL: *Man-Kzin Wars XV*
 
 ## 2020s
 
-- [ ] 2020 February 9 - OPTIONAL: *Freedom: A Man-Kzin Novel*
-- [ ] 2022 November - "Sacred Cow" (short story, with Steven Barnes)
+- [ ] 2020 Feb 9 - OPTIONAL: *Freedom: A Man-Kzin Novel*
+- [ ] 2022 Nov - "Sacred Cow" (short story, with Steven Barnes)
