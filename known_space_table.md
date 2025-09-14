@@ -65,3 +65,9 @@
 | <input type="checkbox"></input> | 2008 Sep | *Juggler of Worlds* | Standalone | Novel, co-written with Edward M. Lerner |
 | <input type="checkbox"></input> | 2009 Feb | *Man-Kzin Wars XII* | Standalone | OPTIONAL |
 | <input type="checkbox"></input> | 2009 Nov | *Destroyer of Worlds* | Standalone | Novel, co-written with Edward M. Lerner |
+| <input type="checkbox"></input> | 2010 Oct | *Betrayer of Worlds* | Standalone | Novel, co-written with Edward M. Lerner |
+| <input type="checkbox"></input> | 2012 May | *Man-Kzin Wars XIII* | Standalone | OPTIONAL |
+| <input type="checkbox"></input> | 2012 Aug | *Fate of Worlds: Return from the Ringworld* | Standalone | Novel, co-written with Edward M. Lerner |
+| <input type="checkbox"></input> | 2013 Dec | *Man-Kzin Wars XIV* | Standalone | OPTIONAL |
+| <input type="checkbox"></input> | 2013 Dec | *Treasure Planet: A Man-Kzin Novel* | Standalone | OPTIONAL: not even part of the Man-Kzin Wars. Very optional, Novel |
+| <input type="checkbox"></input> | 2019 Feb | *Man-Kzin Wars XV* | Standalone | OPTIONAL |
