@@ -71,3 +71,5 @@
 | <input type="checkbox"></input> | 2013 Dec | *Man-Kzin Wars XIV* | Standalone | OPTIONAL |
 | <input type="checkbox"></input> | 2013 Dec | *Treasure Planet: A Man-Kzin Novel* | Standalone | OPTIONAL: not even part of the Man-Kzin Wars. Very optional, Novel |
 | <input type="checkbox"></input> | 2019 Feb | *Man-Kzin Wars XV* | Standalone | OPTIONAL |
+| <input type="checkbox"></input> | 2020 Feb | *Freedom: A Man-Kzin Novel* | Standalone | OPTIONAL |
+| <input type="checkbox"></input> | 2022 Nov | "Sacred Cow" | Analog Science Fiction & Fact November/December 2022 | Short Story |
