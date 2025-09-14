@@ -38,4 +38,20 @@
 | <input type="checkbox"></input> | 1979 Jul | *The Ringworld Engineers* | *The Ringworld Engineers*, Standalone | Novel |
 | <input type="checkbox"></input> | 1980 Apr | *The Patchwork Girl* | *Flatlander*, Standalone | Out of print standalone Novel, also included in the *Flatlander* collection |
 | <input type="checkbox"></input> | 1988 Jun | *The Man-Kzin Wars* | Standalone | OPTIONAL: first book in the Man-Kzin Wars series, Novel |
-| <input type="checkbox"></input> | 1989 Aug | *The Man-Kzin Wars II* | Standalone | OPTIONAL: Set in Known Space, mostly not written by Niven, Novel |
+| <input type="checkbox"></input> | 1989 Aug | *The Man-Kzin Wars II* | Standalone | OPTIONAL |
+| <input type="checkbox"></input> | 1990 Aug | "Madness Has Its Place" | *Three Books of Known Space* | Short story from *Man-Kzin Wars III* |
+| <input type="checkbox"></input> | 1990 Aug | "The Man-Kzin Wars III" | Standalone | OPTIONAL: Set in Known Space, mostly not written by Niven |
+| <input type="checkbox"></input> | 1991 Jan 1 | *Inconstant Star* | Standalone | OPTIONAL: fix-up novel by Paul Anderson including Iron from *The Man-Kzin Wars III*. Also references "Inconstant Moon", which is not part of Known Space |
+| <input type="checkbox"></input> | 1991 Sep | *The Man-Kzin Wars IV* | Standalone | OPTIONAL |
+| <input type="checkbox"></input> | 1992 Oct | *The Man-Kzin Wars V* | Standalone | OPTIONAL |
+| <input type="checkbox"></input> | 1993 Nov | "Procrustes" | *Crashlander* | chronologically before "The Color of Sunfire" |
+| <input type="checkbox"></input> | 1993 Nov | "The Color of Sunfire" | [read it here](https://larryniven.net/?q=the-color-of-sunfire) | chronologically after "Procrustes", officially available online |
+| <input type="checkbox"></input> | 1994 Apr | "Ghost" | *Crashlander* | *Crashlander* collection only, as frame story bridging the other stories together |
+| <input type="checkbox"></input> | 1994 Jul | *Man-Kzin Wars VI* | Standalone | OPTIONAL |
+| <input type="checkbox"></input> | 1995 Jun | "The Woman in Del Rey Crater" | *Flatlander* |  |
+| <input type="checkbox"></input> | 1995 Jun | "Song of the Night People" | *The Ringworld Throne* | Short story that is embedded in The Ringworld Throne, which comes next, so just read that. |
+| <input type="checkbox"></input> | 1995 Jul | *Man-Kzin Wars VII* | Standalone | OPTIONAL |
+| <input type="checkbox"></input> | 1996 Jun | *The Ringworld Throne* | Standalone | Novel |
+| <input type="checkbox"></input> | 1996 Sep | *A Darker Geometry* | Standalone | OPTIONAL: This one has me confused. It seems to have been sold as it's own book, but also seems to be included in Man-Kinz VII. Until I purchase that book and verify, I will leave this in here. It was not written by Larry Niven |
+| <input type="checkbox"></input> | 1998 Sep | *Choosing Names* | *Man-Kzin Wars VII* | short story |
+| <input type="checkbox"></input> | 1998 Sep | *The Man-Kzin Wars VII* | Standalone | OPTIONAL: "Choosing Names" is both the anthology title, and the tile of one of the stories in the book. It includes works by others than Niven |
