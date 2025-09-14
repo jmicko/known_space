@@ -29,10 +29,13 @@
 | <input type="checkbox"></input> | 1968 Jul | "Wait It Out" | *Three Books of Known Space* |  |
 | <input type="checkbox"></input> | 1968 Sep | *A Gift from Earth* | *Three Books of Known Space*, Standalone | Novel |
 | <input type="checkbox"></input> | 1969 Jan | "The Organleggers" | *Flatlander* | later "Death by Ecstasy" |
-| <input type="checkbox"></input> | 1970 Oct | *Ringworld* | *Ringworld*, Standalone | Novel |
+| <input type="checkbox"></input> | 1970 Oct | *Ringworld* | Standalone | Novel |
 | <input type="checkbox"></input> | 1972 Mar | "Cloak of Anarchy" | *Three Books of Known Space* |  |
 | <input type="checkbox"></input> | 1973 Jan | "The Defenseless Dead" | *Flatlander* |  |
-| <input type="checkbox"></input> | 1973 Sep | *Protector* | *Protector*, Standalone | Novel |
+| <input type="checkbox"></input> | 1973 Sep | *Protector* | Standalone | Novel |
 | <input type="checkbox"></input> | 1975 Jan | "ARM" | *Flatlander* | chronologically before "The Borderland of Sol" |
 | <input type="checkbox"></input> | 1975 Jan | "The Borderland of Sol" | *Crashlander* | chronologically after "ARM" |
 | <input type="checkbox"></input> | 1979 Jul | *The Ringworld Engineers* | *The Ringworld Engineers*, Standalone | Novel |
+| <input type="checkbox"></input> | 1980 Apr | *The Patchwork Girl* | *Flatlander*, Standalone | Out of print standalone Novel, also included in the *Flatlander* collection |
+| <input type="checkbox"></input> | 1988 Jun | *The Man-Kzin Wars* | Standalone | OPTIONAL: first book in the Man-Kzin Wars series, Novel |
+| <input type="checkbox"></input> | 1989 Aug | *The Man-Kzin Wars II* | Standalone | OPTIONAL: Set in Known Space, mostly not written by Niven, Novel |
