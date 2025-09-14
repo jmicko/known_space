@@ -55,3 +55,13 @@
 | <input type="checkbox"></input> | 1996 Sep | *A Darker Geometry* | Standalone | OPTIONAL: This one has me confused. It seems to have been sold as it's own book, but also seems to be included in Man-Kinz VII. Until I purchase that book and verify, I will leave this in here. It was not written by Larry Niven |
 | <input type="checkbox"></input> | 1998 Sep | *Choosing Names* | *Man-Kzin Wars VII* | short story |
 | <input type="checkbox"></input> | 1998 Sep | *The Man-Kzin Wars VII* | Standalone | OPTIONAL: "Choosing Names" is both the anthology title, and the tile of one of the stories in the book. It includes works by others than Niven |
+| <input type="checkbox"></input> | 2000 Oct | "Fly-By-Night" | *Stars and Gods*, *Man-Kzin Wars IX* | Short story set during The Man-Kzin Wars, later published in *Man-Kzin Wars IX* |
+| <input type="checkbox"></input> | 2002 Jan | *Man-Kzin Wars IX* | Standalone | OPTIONAL |
+| <input type="checkbox"></input> | 2003 Aug | *Man-Kzin Wars X: the Wunder War* | Standalone | OPTIONAL |
+| <input type="checkbox"></input> | 2004 Jun | *Ringworld's Children* | Standalone | Novel |
+| <input type="checkbox"></input> | 2005 Oct | "The Hunting Park" | *Man-Kzin Wars XI* | Short story from *Man-Kzin Wars XI* |
+| <input type="checkbox"></input> | 2005 Oct | *Man-Kzin Wars XI* | Standalone | OPTIONAL |
+| <input type="checkbox"></input> | 2007 Oct | *Fleet of Worlds* | Standalone | Novel, first in the Fleet of Worlds series, co-written with Edward M. Lerner |
+| <input type="checkbox"></input> | 2008 Sep | *Juggler of Worlds* | Standalone | Novel, co-written with Edward M. Lerner |
+| <input type="checkbox"></input> | 2009 Feb | *Man-Kzin Wars XII* | Standalone | OPTIONAL |
+| <input type="checkbox"></input> | 2009 Nov | *Destroyer of Worlds* | Standalone | Novel, co-written with Edward M. Lerner |
