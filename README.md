@@ -22,7 +22,7 @@ ________________________________________________________
 ## 1960s
 
 - [ ] 1964 Dec - "The Coldest Place"
-- [ ] 1965 Apr - “Wrong-Way Street”
+- [ ] 1965 Apr -  OPTIONAL?: “Wrong-Way Street” ([larryniven.net](https://larryniven.net/?q=bibliographic-reference/wrong-way-street) lists it as set in known space, but other sources disagree. A read through suggests it is at least not required reading.)
 - [ ] 1965 Jun - OPTIONAL: “One Face” - NOT strictly Known Space
 - [ ] 1965 Jul - "Becalmed in Hell"
 - [ ] 1966 Feb - "Eye of an Octopus" (short story, chronologically before "The Warriors")

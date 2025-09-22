@@ -3,7 +3,7 @@
 | <input type="checkbox" checked></input> | Date | Title | Found In                    | Notes |
 |-----|----|------|----------|-------|
 | <input type="checkbox"></input> | 1964 Aug | "The Coldest Place" | *Three Books of Known Space* |       |
-| <input type="checkbox"></input> | 1965 Apr  | "Wrong-Way Street"  | *Convergent Series* |       |
+| <input type="checkbox"></input> | 1965 Apr  | "Wrong-Way Street"  | *Convergent Series* | OPTIONAL? [larryniven.net](https://larryniven.net/?q=bibliographic-reference/wrong-way-street) lists it as set in known space, but other sources disagree. A read through suggests it is at least not required reading. |
 | <input type="checkbox"></input> | 1965 Jun   | "One Face"          | *Convergent Series* | OPTIONAL: Not strictly Known Space |
 | <input type="checkbox"></input> | 1965 Jul | "Becalmed in Hell" | *Three Books of Known Space* |  |
 | <input type="checkbox"></input> | 1966 Feb | "Eye of an Octopus" | *Three Books of Known Space* | short story, chronologically before "The Warriors" |
